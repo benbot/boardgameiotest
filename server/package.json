@@ -7,9 +7,7 @@
     "boardgame.io": "^0.28.0"
   },
   "devDependencies": {
-    "@babel/preset-env": "^7.2.0",
-    "babel": "^6.23.0",
-    "babel-cli": "^6.26.0",
-    "babel-core": "^6.26.3"
+    "@babel/core": "^7.2.0",
+    "@babel/preset-env": "^7.2.0"
   }
 }
